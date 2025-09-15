@@ -3,6 +3,12 @@
     "id": "1",
     "name": "RUMI",
     "imageUrl": "https://raw.githubusercontent.com/Kojaaak/BloodMoney/refs/heads/main/app_icon.png",
-    "description": "Character description"
+    "description": "13th-century Persian poet and Sufi mystic"
+  },
+  {
+    "id": "2",
+    "name": "Einstein",
+    "imageUrl": "https://example.com/einstein.jpg",
+    "description": "Theoretical physicist and genius"
   }
 ]
