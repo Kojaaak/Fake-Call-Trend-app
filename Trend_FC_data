@@ -1,8 +1,8 @@
 [
   {
     "id": "1",
-    "name": "Character Name",
-    "imageUrl": "https://example.com/image.jpg",
+    "name": "RUMI",
+    "imageUrl": "https://raw.githubusercontent.com/Kojaaak/BloodMoney/refs/heads/main/app_icon.png",
     "description": "Character description"
   }
 ]
