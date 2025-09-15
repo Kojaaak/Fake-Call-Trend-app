@@ -1,0 +1,8 @@
+[
+  {
+    "id": "1",
+    "name": "Character Name",
+    "imageUrl": "https://example.com/image.jpg",
+    "description": "Character description"
+  }
+]
