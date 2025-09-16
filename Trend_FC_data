@@ -1,4 +1,4 @@
-[
+v[
   {
     "id": "1",
     "name": "RUMI",
@@ -8,7 +8,7 @@
   {
     "id": "2",
     "name": "Einstein",
-    "imageUrl": "https://example.com/einstein.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/Kojaaak/KPOP-APP3/refs/heads/main/Screenshot%202025-08-03%20at%2022.52.54.png",
     "description": "Theoretical physicist and genius"
   }
 ]
