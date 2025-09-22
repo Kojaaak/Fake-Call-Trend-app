@@ -1,0 +1,34 @@
+[
+  {
+    "id": "1",
+    "title": "Comedy",
+    "imageUrl": "https://your-github-repo/category-images/comedy.jpg",
+    "shorts": [
+      {
+        "id": "1",
+        "title": "Funny Moment 1",
+        "videoUrl": "https://www.youtube.com/watch?v=VIDEO_ID_1",
+        "thumbnailUrl": "https://img.youtube.com/vi/VIDEO_ID_1/maxresdefault.jpg"
+      },
+      {
+        "id": "2",
+        "title": "Funny Moment 2", 
+        "videoUrl": "https://www.youtube.com/watch?v=VIDEO_ID_2",
+        "thumbnailUrl": "https://img.youtube.com/vi/VIDEO_ID_2/maxresdefault.jpg"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "title": "Music",
+    "imageUrl": "https://your-github-repo/category-images/music.jpg",
+    "shorts": [
+      {
+        "id": "3",
+        "title": "Music Video 1",
+        "videoUrl": "https://www.youtube.com/watch?v=VIDEO_ID_3",
+        "thumbnailUrl": "https://img.youtube.com/vi/VIDEO_ID_3/maxresdefault.jpg"
+      }
+    ]
+  }
+]
