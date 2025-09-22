@@ -2,13 +2,13 @@
   {
     "id": "1",
     "name": "Cool Abstract",
-    "imageUrl": "https://raw.githubusercontent.com/Kojaaak/Fake-Call-Trend-app/refs/heads/main/wallpapers/wallpaper1.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/Kojaaak/BloodMoney/refs/heads/main/app_icon.png",
     "category": "Abstract"
   },
   {
     "id": "2", 
     "name": "Nature Scene",
-    "imageUrl": "https://raw.githubusercontent.com/Kojaaak/Fake-Call-Trend-app/refs/heads/main/wallpapers/wallpaper2.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/Kojaaak/BloodMoney/refs/heads/main/app_icon.png",
     "category": "Nature"
   }
 ]
