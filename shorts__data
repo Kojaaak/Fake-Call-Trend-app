@@ -7,13 +7,13 @@
       {
         "id": "1",
         "title": "Kpop",
-        "videoUrl": "https://www.youtube.com/watch?v=J---aiyznGQ",
+        "videoUrl": "https://www.youtube.com/shorts/rhWkIbTCBf0",
         "thumbnailUrl": "https://img.youtube.com/vi/J---aiyznGQ/maxresdefault.jpg"
       },
       {
         "id": "2",
         "title": "Funny Moment 2", 
-        "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+        "videoUrl": "https://www.youtube.com/shorts/rhWkIbTCBf0",
         "thumbnailUrl": "https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg"
       }
     ]
@@ -26,7 +26,7 @@
       {
         "id": "3",
         "title": "Music Video 1",
-        "videoUrl": "https://www.youtube.com/watch?v=9bZkp7q19f0",
+        "videoUrl": "https://www.youtube.com/shorts/rhWkIbTCBf0",
         "thumbnailUrl": "https://img.youtube.com/vi/9bZkp7q19f0/maxresdefault.jpg"
       }
     ]
