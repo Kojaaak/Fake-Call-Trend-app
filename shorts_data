@@ -7,27 +7,27 @@
       {
         "id": "1",
         "title": "Kpop",
-        "videoUrl": "https://www.youtube.com/watch?v=VIDEO_ID_1",
-        "thumbnailUrl": "https://raw.githubusercontent.com/Kojaaak/BloodMoney/refs/heads/main/app_icon.png"
+        "videoUrl": "https://www.youtube.com/watch?v=J---aiyznGQ",
+        "thumbnailUrl": "https://img.youtube.com/vi/J---aiyznGQ/maxresdefault.jpg"
       },
       {
         "id": "2",
         "title": "Funny Moment 2", 
-        "videoUrl": "https://www.youtube.com/watch?v=VIDEO_ID_2",
-        "thumbnailUrl": "https://img.youtube.com/vi/VIDEO_ID_2/maxresdefault.jpg"
+        "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+        "thumbnailUrl": "https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg"
       }
     ]
   },
   {
     "id": "2",
     "title": "Music",
-    "imageUrl": "https://your-github-repo/category-images/music.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/Kojaaak/BloodMoney/refs/heads/main/app_icon.png",
     "shorts": [
       {
         "id": "3",
         "title": "Music Video 1",
-        "videoUrl": "https://www.youtube.com/watch?v=VIDEO_ID_3",
-        "thumbnailUrl": "https://img.youtube.com/vi/VIDEO_ID_3/maxresdefault.jpg"
+        "videoUrl": "https://www.youtube.com/watch?v=9bZkp7q19f0",
+        "thumbnailUrl": "https://img.youtube.com/vi/9bZkp7q19f0/maxresdefault.jpg"
       }
     ]
   }
