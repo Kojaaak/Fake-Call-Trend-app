@@ -2,13 +2,13 @@
   {
     "id": "1",
     "title": "Comedy",
-    "imageUrl": "https://your-github-repo/category-images/comedy.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/Kojaaak/BloodMoney/refs/heads/main/app_icon.png",
     "shorts": [
       {
         "id": "1",
-        "title": "Funny Moment 1",
+        "title": "Kpop",
         "videoUrl": "https://www.youtube.com/watch?v=VIDEO_ID_1",
-        "thumbnailUrl": "https://img.youtube.com/vi/VIDEO_ID_1/maxresdefault.jpg"
+        "thumbnailUrl": "https://raw.githubusercontent.com/Kojaaak/BloodMoney/refs/heads/main/app_icon.png"
       },
       {
         "id": "2",
