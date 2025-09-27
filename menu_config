@@ -1,7 +1,8 @@
 {
   "trending_characters": 1,
   "trending_shorts": 1,
-  "quiz": 0,
-  "remove_ads": 0,
-  "ringtone_settings": 1
+  "quiz": 1,
+  "remove_ads": 1,
+  "ringtone_settings": 1,
+  "background_image": "https://raw.githubusercontent.com/Kojaaak/BloodMoney/refs/heads/main/app_icon.png"
 }
