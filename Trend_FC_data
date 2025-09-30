@@ -26,5 +26,12 @@
     "imageUrl": "https://raw.githubusercontent.com/Kojaaak/FC-DATA-IMAGES/refs/heads/main/C4.jpg",
     "description": "New Character",
     "callAudioUrl": "https://raw.githubusercontent.com/Kojaaak/Fake-Call-Trend-app/refs/heads/main/R3.mp3"
+  },
+  {
+    "id": "5",
+    "name": "Bruno",
+    "imageUrl": "https://raw.githubusercontent.com/Kojaaak/FC-DATA-IMAGES/refs/heads/main/C5.jpg",
+    "description": "Iron Jaw",
+    "callAudioUrl": "https://raw.githubusercontent.com/Kojaaak/Fake-Call-Trend-app/refs/heads/main/R2.mp3"
   }
 ]
