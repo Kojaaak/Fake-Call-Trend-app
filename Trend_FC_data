@@ -6,32 +6,25 @@
     "description": "The Hammer",
     "callAudioUrl": "https://raw.githubusercontent.com/Kojaaak/Fake-Call-Trend-app/refs/heads/main/R1.mp3"
   },
-{
+  {
     "id": "2",
     "name": "Marco",
     "imageUrl": "https://raw.githubusercontent.com/Kojaaak/FC-DATA-IMAGES/refs/heads/main/C2.jpg",
     "description": "Silk Suit",
     "callAudioUrl": "https://raw.githubusercontent.com/Kojaaak/Fake-Call-Trend-app/refs/heads/main/R1.mp3"
   },
-{
-    "id": “3”,
-    "name": "Marco",
-    "imageUrl": "https://raw.githubusercontent.com/Kojaaak/FC-DATA-IMAGES/refs/heads/main/C2.jpg",
-    "description": "Silk Suit",
-    "callAudioUrl": "https://raw.githubusercontent.com/Kojaaak/Fake-Call-Trend-app/refs/heads/main/R1.mp3"
-  },
-{
-    "id": “4”,
-    "name": "Marco",
-    "imageUrl": "https://raw.githubusercontent.com/Kojaaak/FC-DATA-IMAGES/refs/heads/main/C2.jpg",
-    "description": "Silk Suit",
-    "callAudioUrl": "https://raw.githubusercontent.com/Kojaaak/Fake-Call-Trend-app/refs/heads/main/R1.mp3"
-  },
   {
-    "id": “5”,
+    "id": "3",
     "name": "Salvatore",
     "imageUrl": "https://raw.githubusercontent.com/Kojaaak/FC-DATA-IMAGES/refs/heads/main/C3.jpg",
     "description": "Shades",
     "callAudioUrl": "https://raw.githubusercontent.com/Kojaaak/Fake-Call-Trend-app/refs/heads/main/R2.mp3"
+  },
+  {
+    "id": "4",
+    "name": "Giovanni",
+    "imageUrl": "https://raw.githubusercontent.com/Kojaaak/FC-DATA-IMAGES/refs/heads/main/C4.jpg",
+    "description": "New Character",
+    "callAudioUrl": "https://raw.githubusercontent.com/Kojaaak/Fake-Call-Trend-app/refs/heads/main/R3.mp3"
   }
 ]
