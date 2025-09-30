@@ -1,0 +1,6 @@
+{
+  "appUrl": "https://apps.apple.com/app/idXXXXXXXXX",
+  "title": "My Other App",
+  "appIconUrl": "https://raw.githubusercontent.com/Kojaaak/BloodMoney/refs/heads/main/app_icon.png",
+  "buttonColor": "0xFFFF5722"
+}
