@@ -4,6 +4,6 @@
   "quiz": 1,
   "remove_ads": 1,
   "ringtone_settings": 1,
-  "external_app": 1,
+  "external_app": 0,
   "background_image": "https://raw.githubusercontent.com/Kojaaak/BloodMoney/refs/heads/main/app_icon.png"
 }
