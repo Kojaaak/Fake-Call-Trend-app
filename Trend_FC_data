@@ -1,23 +1,37 @@
 [
   {
     "id": "1",
-    "name": "RUMI",
-    "imageUrl": "https://raw.githubusercontent.com/Kojaaak/BloodMoney/refs/heads/main/app_icon.png",
-    "description": "13th-century Persian poet and Sufi mystic",
+    "name": “Vito”,
+    "imageUrl": "https://raw.githubusercontent.com/Kojaaak/FC-DATA-IMAGES/refs/heads/main/C1.jpg",
+    "description": "The Hammer",
     "callAudioUrl": "https://raw.githubusercontent.com/Kojaaak/Fake-Call-Trend-app/refs/heads/main/R1.mp3"
   },
 {
     "id": "2",
-    "name": "KOJAAAK",
-    "imageUrl": "https://raw.githubusercontent.com/Kojaaak/BloodMoney/refs/heads/main/app_icon.png",
-    "description": "test fake chat",
+    "name": “Marco”,
+    "imageUrl": "https://raw.githubusercontent.com/Kojaaak/FC-DATA-IMAGES/refs/heads/main/C2.jpg",
+    "description": "Silk Suit",
+    "callAudioUrl": "https://raw.githubusercontent.com/Kojaaak/Fake-Call-Trend-app/refs/heads/main/R1.mp3"
+  },
+{
+    "id": “3”,
+    "name": “Salvatore”,
+    "imageUrl": "https://raw.githubusercontent.com/Kojaaak/FC-DATA-IMAGES/refs/heads/main/C3.jpg",
+    "description": "Shades",
+    "callAudioUrl": "https://raw.githubusercontent.com/Kojaaak/Fake-Call-Trend-app/refs/heads/main/R1.mp3"
+  },
+{
+    "id": “4”,
+    "name": "Isabella",
+    "imageUrl": "https://raw.githubusercontent.com/Kojaaak/FC-DATA-IMAGES/refs/heads/main/C4.jpg",
+    "description": "Velvet Rose",
     "callAudioUrl": "https://raw.githubusercontent.com/Kojaaak/Fake-Call-Trend-app/refs/heads/main/R1.mp3"
   },
   {
-    "id": "3",
-    "name": "Einstein",
-    "imageUrl": "https://raw.githubusercontent.com/Kojaaak/KPOP-APP3/refs/heads/main/Screenshot%202025-08-03%20at%2022.52.54.png",
-    "description": "Theoretical physicist and genius",
+    "id": "5",
+    "name": "Bruno",
+    "imageUrl": "https://raw.githubusercontent.com/Kojaaak/FC-DATA-IMAGES/refs/heads/main/C5.jpg",
+    "description": "Iron Jaw",
     "callAudioUrl": "https://raw.githubusercontent.com/Kojaaak/Fake-Call-Trend-app/refs/heads/main/R2.mp3"
   }
 ]
